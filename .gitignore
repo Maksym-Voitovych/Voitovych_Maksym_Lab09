@@ -18,3 +18,8 @@ output/
 # РўРёРјС‡Р°СЃРѕРІС– С„Р°Р№Р»Рё
 *.log
 *.tmp
+# Тимчасові файли Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
