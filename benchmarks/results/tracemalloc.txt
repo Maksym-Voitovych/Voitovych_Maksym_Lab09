@@ -1,0 +1,2 @@
+C:\Users\Maximus\Desktop\Професійний пітон\1\bank_system\benchmarks\benchmark_lab9.py:137: size=128 B, count=1, average=128 B
+C:\Python314\Lib\tracemalloc.py:551: size=128 B, count=1, average=128 B
